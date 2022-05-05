@@ -328,42 +328,42 @@ body {
 /* Placing images on grid */
 
 .c-gallery__item1 {
-    background-image: url(/img/jpg/item1.jpg);
+    background-image: url(img/jpg/item1.jpg);
     grid-area: 1 / 1 / span 2 / 3;
 }
 
 .c-gallery__item2 {
-    background-image: url(/img/jpg/item2.jpg);
+    background-image: url(img/jpg/item2.jpg);
     grid-area: 2 / 4 / span 3 / span 2;
 }
 
 .c-gallery__item3 {
-    background-image: url(/img/jpg/item3.jpg);
+    background-image: url(img/jpg/item3.jpg);
     grid-area: 1 / 3 / 3 / 4;
 }
 
 .c-gallery__item4 {
-    background-image: url(/img/jpg/item4.jpg);
+    background-image: url(img/jpg/item4.jpg);
     grid-area: 3 / 2 / -1 / 4;
 }
 
 .c-gallery__item5 {
-    background-image: url(/img/jpg/item5.jpg);
+    background-image: url(img/jpg/item5.jpg);
     grid-area: -2 / -3 / -1 / -1;
 }
 
 .c-gallery__item6 {
-    background-image: url(/img/jpg/item6.jpg);
+    background-image: url(img/jpg/item6.jpg);
     grid-area: 1 / 7 / span 3 / -1;
 }
 
 .c-gallery__item7 {
-    background-image: url(/img/jpg/item7.jpg);
+    background-image: url(img/jpg/item7.jpg);
     grid-area: 1 / 6 / -1 / span 1;
 }
 
 .c-gallery__item8 {
-    background-image: url(/img/jpg/item8.jpg);
+    background-image: url(img/jpg/item8.jpg);
     grid-area: 1 / 4 / 2 / 6;
 }
 
